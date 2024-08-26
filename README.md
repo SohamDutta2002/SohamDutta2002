@@ -9,7 +9,7 @@
 ### :woman_technologist: About Me :
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :  Python, Julia, R, Rust, C, C++
 
 
 ---
