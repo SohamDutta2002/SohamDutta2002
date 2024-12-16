@@ -20,6 +20,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SohamDutta2002&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![SohamDutta2002's Stats](https://github-readme-stats.vercel.app/api?username=SohamDutta2002&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![SohamDutta2002's Stats](https://github-readme-stats.vercel.app/api?username=SohamDutta2002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDutta2002)](https://github.com/anuraghazra/github-readme-stats)
