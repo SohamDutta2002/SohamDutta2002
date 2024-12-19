@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamDutta2002)](https://github.com/SohamDutta2002/github-readme-activity-graph)
+
 ---
 
 ### :woman_technologist: About Me :
@@ -16,7 +16,7 @@
 
 
 ---
-
+[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamDutta2002)](https://github.com/SohamDutta2002/github-readme-activity-graph)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SohamDutta2002&theme=dark&background=000000)](https://git.io/streak-stats)   
 
