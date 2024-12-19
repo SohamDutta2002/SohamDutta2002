@@ -16,7 +16,7 @@
 
 
 ---
-[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamDutta2002)](https://github.com/SohamDutta2002/github-readme-activity-graph)
+[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohamDutta2002)](https://github.com/SohamDutta2002&theme=merko/github-readme-activity-graph)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SohamDutta2002&theme=dark&background=000000)](https://git.io/streak-stats)   
 
