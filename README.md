@@ -9,7 +9,7 @@
 ### :woman_technologist: About Me :
 > CS Undergrad
 
-> Areas of Interest: Bayesian Statistics, LLMs, AI-Agents, MLOps, ML W
+> Areas of Interest: Bayesian Statistics, LLMs, AI-Agents, MLOps, ML Wo
 ---
 
 ### :hammer_and_wrench: Languages and Tools :  Python, Julia, R, Rust, C, C++
